@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Project
+# EDA (Exploratory Data Analysis)
 
 ## 🚀 Project Overview
 [Provide a brief description of your data analysis project, including the dataset, key questions you aim to answer, and the primary objectives of your EDA]
