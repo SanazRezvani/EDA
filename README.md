@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ## 🔍 Exploratory Data Analysis Workflow
 1. **Data Loading**
-   - Load raw data[Click here for Kaggle Data](https://github.com/SanazRezvani/DLfromKaggle)
+   - Load raw data
    - Initial data inspection
    - Check for missing values
 
